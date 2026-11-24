@@ -19,3 +19,6 @@ checkBtn.addEventListener("click", function () {
     result.textContent = "E you need to study more";
   }
 });
+
+let name = "Emoji";
+console.log("welcome, " + name);
